@@ -2,7 +2,7 @@ Link: https://ewaloos.github.io/homepage/
 
 # **My first website**
 
-This is a test site, on which I learn how to use HTML, CSS and Javascript. 
+This is a test site, on which I learn how to use HTML, CSS and Javascript.
 In the upcoming weeks it will hopefully become more beautiful and professional! :)
 
 ## **Website contents**
@@ -15,4 +15,4 @@ There are three sections on the site:
 
 ## **Preview**
 
-![homepage] (https://github.com/ewaloos/homepage/blob/main/gif/homepage-gif.)
+![homepage](https://raw.githubusercontent.com/ewaloos/homepage/main/gif/homepage-gif.gif)
