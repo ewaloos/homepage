@@ -1,16 +1,18 @@
-link do strony: https://ewaloos.github.io/homepage/
+Link: https://ewaloos.github.io/homepage/
 
-# **Moja pierwsza strona**
+# **My first webstire**
 
-To jest testowa strona, na której uczę się korzystać z HTML-a, CSS-a i Javascriptu.
-W nadchodzących tygodniach z pewnością będzie się ona rozwijała i stawała coraz bardziej profesjonalna i przyjemna dla oka ;)
+This is a test site, on which I learn how to use HTML, CSS and Javascript. 
+In the upcoming weeks it will hopefully become more beautiful and professional :)
 
-## **Co zawiera strona?**
+## **Website contents**
 
-Na stronie znajdują się trzy sekcje:
+There are three sections on the site:
 
-1. O mnie
-2. Czym się interesuję?
-3. Moje ulubione obrazy.
+1. About me
+2. What are my interests?
+3. My favorite pictures
+
+## **Preview**
 
 ![homepage] (https://github.com/ewaloos/homepage/blob/main/gif/homepage-gif.gif?raw=true)
