@@ -15,4 +15,4 @@ There are three sections on the site:
 
 ## **Preview**
 
-![homepage] (https://github.com/ewaloos/homepage/blob/main/gif/homepage-gif.gif?raw=true)
+![homepage] (https://github.com/ewaloos/homepage/blob/main/gif/homepage-gif.)
