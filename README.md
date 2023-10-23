@@ -12,3 +12,5 @@ Na stronie znajdują się trzy sekcje:
 1. O mnie
 2. Czym się interesuję?
 3. Moje ulubione obrazy.
+
+![homepage] (https://github.com/ewaloos/homepage/blob/main/gif/homepage-gif.gif?raw=true)
