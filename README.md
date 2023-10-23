@@ -1,9 +1,9 @@
 Link: https://ewaloos.github.io/homepage/
 
-# **My first webstire**
+# **My first website**
 
 This is a test site, on which I learn how to use HTML, CSS and Javascript. 
-In the upcoming weeks it will hopefully become more beautiful and professional :)
+In the upcoming weeks it will hopefully become more beautiful and professional! :)
 
 ## **Website contents**
 
