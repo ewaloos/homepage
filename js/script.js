@@ -1,13 +1,16 @@
-console.log("Cześć, miłego dnia");
+{
+  const onChangeBackgroundClick = () => {
+    let body = document.documentElement;
+    let theme = document.querySelector(".js-theme");
+    body.classList.toggle("body--dark");
+    theme.innerText = body.classList.contains("body--dark")
+      ? "jasny"
+      : "ciemny";
+  };
+  const init = () => {
+    const button = document.querySelector(".js-button");
+    button.addEventListener("click", onChangeBackgroundClick);
+  };
 
-let button = document.querySelector(".js-button");
-let body = document.querySelector(".js-body");
-let theme = document.querySelector(".js-theme");
-
-button.addEventListener("click", () => {
-  body.classList.toggle("body--dark");
-
-  theme.innerText = body.classList.contains("body--dark")
-    ? (button.innerText = "Tryb jasny")
-    : (button.innerText = "Tryb ciemny");
-});
+  init();
+}
