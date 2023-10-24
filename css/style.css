@@ -25,9 +25,17 @@ html {
 .header {
   font-weight: 600;
   font-size: 30px;
+  display: flex;
+  justify-content: center;
 }
 
 .picture {
-  margin: 0 auto;
+  border-radius: 50%;
+  padding: 2%;
+}
+
+.pictureBox {
   padding: 15 px;
+  display: flex;
+  justify-content: space-around;
 }
