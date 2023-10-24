@@ -1,7 +1,7 @@
 {
   const onChangeBackgroundClick = () => {
-    let body = document.documentElement;
-    let theme = document.querySelector(".js-theme");
+    const body = document.documentElement;
+    const theme = document.querySelector(".js-theme");
     body.classList.toggle("body--dark");
     theme.innerText = body.classList.contains("body--dark")
       ? "jasny"
